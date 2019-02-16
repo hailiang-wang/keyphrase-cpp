@@ -1,0 +1,7 @@
+Input_file_list=
+Gold_standard_file_list=
+Input_file_directory=
+Gold_standard_file_directory=
+Output_file_directory=
+Ratio=
+Window_size=
